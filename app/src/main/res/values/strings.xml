@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WeatherAppAndroid</string>
+    <string name="weather_icon">weather icon</string>
+    <string name="hourly_temperature">%d\u00b0</string>
+    <string name="hourly"></string>
+    <string name="default_notification_channel_id">Notification Weather</string>
+<!--    <string name="zero_label">0%d</string>-->
+</resources>
